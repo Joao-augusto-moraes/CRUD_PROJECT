@@ -1,0 +1,12 @@
+[
+  {
+    "codigo": 1,
+    "nome": "Prof. Ana Costa",
+    "cpf": "111.222.333-44"
+  },
+  {
+    "codigo": 2,
+    "nome": "Prof. Carlos Lima",
+    "cpf": "555.666.777-88"
+  }
+]

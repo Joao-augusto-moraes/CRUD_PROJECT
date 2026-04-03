@@ -1,0 +1,12 @@
+[
+  {
+    "codigo_turma": 1,
+    "codigo_professor": 1,
+    "codigo_disciplina": 1
+  },
+  {
+    "codigo_turma": 2,
+    "codigo_professor": 2,
+    "codigo_disciplina": 2
+  }
+]
