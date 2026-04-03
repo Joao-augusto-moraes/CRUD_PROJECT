@@ -1,0 +1,2 @@
+# Requirements for CRUD Project
+# This project uses only standard library modules: json, os

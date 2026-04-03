@@ -1,0 +1,17 @@
+[
+  {
+    "codigo": 1,
+    "nome": "João Silva",
+    "cpf": "123.456.789-00"
+  },
+  {
+    "codigo": 2,
+    "nome": "Maria Santos",
+    "cpf": "987.654.321-00"
+  },
+  {
+    "codigo": 3,
+    "nome": "Pedro Oliveira",
+    "cpf": "456.789.123-00"
+  }
+]
